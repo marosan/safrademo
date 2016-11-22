@@ -7,8 +7,8 @@ var UserActions = require("../actions/UserActions");
 var AppStore = require('../stores/AppStore');
 var Cookie = require('react-cookie');
 var Spinner = require('react-spinkit');
-var engagerLogo = require('../../images/ENGAGER_BANNER_600.svg');
-
+//var engagerLogo = require('../../images/ENGAGER_BANNER_600.svg');
+var engagerLogo = require('../../images/LogoPoC.png');
 var Textfield = ReactMDL.Textfield;
 var Button = ReactMDL.Button;
 
